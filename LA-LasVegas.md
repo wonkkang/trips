@@ -30,19 +30,19 @@ These are strong LA-area anchors to keep your drives balanced. Rates are dynamic
 5. Gateway Hotel Santa Monica
    - Why this works: Usually strong value for a Santa Monica-adjacent location with easy UCLA access.
    - Maps: https://maps.google.com/?q=Gateway+Hotel+Santa+Monica
-   - Link: https://www.expedia.com/Hotel-Search?destination=Gateway+Hotel+Santa+Monica&startDate=2026-07-18&endDate=2026-07-22&rooms=2&adults=4
+   - Link: https://www.expedia.com/Los-Angeles-Hotels-Gateway-Hotel-Santa-Monica.h20112885.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4
 6. Hotel Angeleno
    - Why this works: Good freeway position for UCLA, Santa Monica, and Universal routing.
    - Maps: https://maps.google.com/?q=Hotel+Angeleno+Los+Angeles
-   - Link: https://www.expedia.com/Hotel-Search?destination=Hotel+Angeleno+Los+Angeles&startDate=2026-07-18&endDate=2026-07-22&rooms=2&adults=4
+   - Link: https://www.expedia.com/Los-Angeles-Hotels-Hotel-Angeleno.h21848.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4
 7. Hilton Garden Inn Los Angeles Marina Del Rey
    - Why this works: Marina/Westside location with decent access to Santa Monica and Culver City.
    - Maps: https://maps.google.com/?q=Hilton+Garden+Inn+Los+Angeles+Marina+Del+Rey
-   - Link: https://www.expedia.com/Hotel-Search?destination=Hilton+Garden+Inn+Los+Angeles+Marina+Del+Rey&startDate=2026-07-18&endDate=2026-07-22&rooms=2&adults=4
+   - Link: https://www.expedia.com/Los-Angeles-Hotels-Hilton-Garden-Inn-Marina-Del-Rey.h9089.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4
 8. Found Santa Monica
    - Why this works: Westside base close to Santa Monica and UCLA with walkable dining nearby.
    - Maps: https://maps.google.com/?q=Found+Santa+Monica
-   - Link: https://www.expedia.com/Hotel-Search?destination=Found+Santa+Monica&startDate=2026-07-18&endDate=2026-07-22&rooms=2&adults=4
+   - Link: https://www.expedia.com/Los-Angeles-Hotels-FOUND-Los-Angeles-Santa-Monica.h41510539.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4
 
 Booking filter to use:
 - Set a hard cap on total nightly cost with fees.
@@ -74,17 +74,17 @@ Important pricing note:
 
 | Hotel | Expedia dated link (clickable) | Expedia base snapshot* | Est. nightly for your trip (2 rooms combined) | Est. total incl. taxes/fees (4 nights) |
 |---|---|---|---|---|
-| Hilton Los Angeles Culver City | https://www.expedia.com/Hotel-Search?destination=Hilton+Los+Angeles+Culver+City&startDate=2026-07-18&endDate=2026-07-22&rooms=2&adults=4 | From ~$163/night (1 room, 2 adults, near-term) | ~$360-$430 | ~$1,670-$2,000 |
-| Courtyard by Marriott Culver City Los Angeles | https://www.expedia.com/Hotel-Search?destination=Courtyard+by+Marriott+Culver+City+Los+Angeles&startDate=2026-07-18&endDate=2026-07-22&rooms=2&adults=4 | From ~$157/night (1 room, 2 adults, near-term) | ~$340-$420 | ~$1,580-$1,950 |
-| Four Points by Sheraton Los Angeles Westside | https://www.expedia.com/Hotel-Search?destination=Four+Points+by+Sheraton+Los+Angeles+Westside&startDate=2026-07-18&endDate=2026-07-22&rooms=2&adults=4 | From ~$178/night (1 room, 2 adults, near-term) | ~$390-$470 | ~$1,810-$2,180 |
-| Holiday Inn Express West Los Angeles-Santa Monica | https://www.expedia.com/Hotel-Search?destination=Holiday+Inn+Express+West+Los+Angeles+Santa+Monica&startDate=2026-07-18&endDate=2026-07-22&rooms=2&adults=4 | Parking shown; no stable public base snapshot on fetched page | ~$360-$460 | ~$1,670-$2,130 |
-| Gateway Hotel Santa Monica | https://www.expedia.com/Hotel-Search?destination=Gateway+Hotel+Santa+Monica&startDate=2026-07-18&endDate=2026-07-22&rooms=2&adults=4 | Value-positioned Westside listing (date-linked search) | ~$360-$470 | ~$1,670-$2,180 |
-| Hotel Angeleno | https://www.expedia.com/Hotel-Search?destination=Hotel+Angeleno+Los+Angeles&startDate=2026-07-18&endDate=2026-07-22&rooms=2&adults=4 | Midscale boutique listing (date-linked search) | ~$380-$500 | ~$1,760-$2,320 |
-| Hilton Garden Inn Los Angeles Marina Del Rey | https://www.expedia.com/Hotel-Search?destination=Hilton+Garden+Inn+Los+Angeles+Marina+Del+Rey&startDate=2026-07-18&endDate=2026-07-22&rooms=2&adults=4 | Marina-adjacent midscale listing (date-linked search) | ~$390-$520 | ~$1,810-$2,410 |
-| Found Santa Monica | https://www.expedia.com/Hotel-Search?destination=Found+Santa+Monica&startDate=2026-07-18&endDate=2026-07-22&rooms=2&adults=4 | Budget-leaning Westside listing (date-linked search) | ~$330-$430 | ~$1,530-$2,000 |
-| Courtyard LA Century City/Beverly Hills | https://www.expedia.com/Hotel-Search?destination=Courtyard+by+Marriott+Los+Angeles+Century+City+Beverly+Hills&startDate=2026-07-18&endDate=2026-07-22&rooms=2&adults=4 | From ~$229/night (1 room, 2 adults, near-term) | ~$470-$560 | ~$2,180-$2,600 |
-| Best Western Royal Palace Inn & Suites | https://www.expedia.com/Hotel-Search?destination=Best+Western+Royal+Palace+Inn+and+Suites+Los+Angeles&startDate=2026-07-18&endDate=2026-07-22&rooms=2&adults=4 | From ~$168/night (1 room, 2 adults, near-term) | ~$350-$430 | ~$1,620-$2,000 |
-| Loews Hollywood Hotel | https://www.expedia.com/Hotel-Search?destination=Loews+Hollywood+Hotel&startDate=2026-07-18&endDate=2026-07-22&rooms=2&adults=4 | From ~$233/night (1 room, 2 adults, near-term) | ~$500-$620 | ~$2,320-$2,880 |
+| Hilton Los Angeles Culver City | https://www.expedia.com/Los-Angeles-Hotels-Hilton-Los-Angeles-Culver-City.h21939.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4 | From ~$163/night (1 room, 2 adults, near-term) | ~$360-$430 | ~$1,670-$2,000 |
+| Courtyard by Marriott Culver City Los Angeles | https://www.expedia.com/Los-Angeles-Hotels-Courtyard-By-Marriott-Los-Angeles-Westside.h23614.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4 | From ~$157/night (1 room, 2 adults, near-term) | ~$340-$420 | ~$1,580-$1,950 |
+| Four Points by Sheraton Los Angeles Westside | https://www.expedia.com/Los-Angeles-Hotels-Four-Points-By-Sheraton-Los-Angeles-Westside.h5.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4 | From ~$178/night (1 room, 2 adults, near-term) | ~$390-$470 | ~$1,810-$2,180 |
+| Holiday Inn Express West Los Angeles-Santa Monica | https://www.expedia.com/Los-Angeles-Hotels-Holiday-Inn-Express-West-Los-Angeles.h19104.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4 | Parking shown; no stable public base snapshot on fetched page | ~$360-$460 | ~$1,670-$2,130 |
+| Gateway Hotel Santa Monica | https://www.expedia.com/Los-Angeles-Hotels-Gateway-Hotel-Santa-Monica.h20112885.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4 | Value-positioned Westside listing (date-linked search) | ~$360-$470 | ~$1,670-$2,180 |
+| Hotel Angeleno | https://www.expedia.com/Los-Angeles-Hotels-Hotel-Angeleno.h21848.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4 | Midscale boutique listing (date-linked search) | ~$380-$500 | ~$1,760-$2,320 |
+| Hilton Garden Inn Los Angeles Marina Del Rey | https://www.expedia.com/Los-Angeles-Hotels-Hilton-Garden-Inn-Marina-Del-Rey.h9089.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4 | Marina-adjacent midscale listing (date-linked search) | ~$390-$520 | ~$1,810-$2,410 |
+| Found Santa Monica | https://www.expedia.com/Los-Angeles-Hotels-FOUND-Los-Angeles-Santa-Monica.h41510539.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4 | Budget-leaning Westside listing (date-linked search) | ~$330-$430 | ~$1,530-$2,000 |
+| Courtyard LA Century City/Beverly Hills | https://www.expedia.com/Los-Angeles-Hotels-Courtyard-By-Marriott-Los-Angeles-Century-CityBeverly-Hills.h2657.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4 | From ~$229/night (1 room, 2 adults, near-term) | ~$470-$560 | ~$2,180-$2,600 |
+| Best Western Royal Palace Inn & Suites | https://www.expedia.com/Los-Angeles-Hotels-Best-Western-Royal-Palace-Inn-Suites.h40680.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4 | From ~$168/night (1 room, 2 adults, near-term) | ~$350-$430 | ~$1,620-$2,000 |
+| Loews Hollywood Hotel | https://www.expedia.com/Los-Angeles-Hotels-Loews-Hollywood-Hotel.h790158.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4 | From ~$233/night (1 room, 2 adults, near-term) | ~$500-$620 | ~$2,320-$2,880 |
 
 \*Base snapshots pulled from Expedia hotel pages/recent crawls, which generally quote **1 room / 2 adults / 1 night** in the next 30 days.
 
@@ -117,20 +117,20 @@ Times are typical planning ranges in normal traffic windows and can spike in LA 
 
 ### Core Stops
 1. **Santa Monica Pier**
-   - Why it is special: This is classic Southern California in one frame: ocean air, ferris wheel, arcade energy, and sunset all at once.
-   - Why your family may like it: It is easy fun with no learning curve after travel day. Teens and college-age kids can split off and still stay close.
+   - **Why it stands out:** This is classic Southern California in one frame: ocean air, ferris wheel, arcade energy, and sunset all at once.
+   - **Why you'll like it:** It is easy fun with no learning curve after travel day. Teens and college-age kids can split off and still stay close.
    - Estimated time: 2-3 hours
    - Maps: https://maps.google.com/?q=Santa+Monica+Pier
    - Link: https://santamonicapier.org/
 2. **Third Street Promenade**
-   - Why it is special: Lively pedestrian district with street performers and flexible food options.
-   - Why your family may like it: Everyone can pick their own vibe after a long flight/drive day.
+   - **Why it stands out:** Lively pedestrian district with street performers and flexible food options.
+   - **Why you'll like it:** Everyone can pick their own vibe after a long flight/drive day.
    - Estimated time: 1.5-2 hours
    - Maps: https://maps.google.com/?q=Third+Street+Promenade+Santa+Monica
    - Link: https://www.santamonica.com/what-to-do/third-street-promenade/
 3. **Venice Boardwalk (optional)**
-   - Why it is special: Raw, weird, creative LA beach culture with murals, skaters, and street scenes.
-   - Why your family may like it: It feels very different from polished Santa Monica and makes the day more memorable.
+   - **Why it stands out:** Raw, weird, creative LA beach culture with murals, skaters, and street scenes.
+   - **Why you'll like it:** It feels very different from polished Santa Monica and makes the day more memorable.
    - Estimated time: 1-1.5 hours
    - Maps: https://maps.google.com/?q=Venice+Beach+Boardwalk
    - Link: https://www.venicebeach.com/
@@ -189,27 +189,27 @@ Times are typical planning ranges in normal traffic windows and can spike in LA 
 
 ### Core Stops
 1. **UCLA Self-Guided Campus Tour (Morning)**
-   - Why it is special: UCLA has that ideal mix of historic architecture, big-school energy, and polished campus beauty.
-   - Why your family may like it: This is a practical inspiration stop for both your high schooler and college-age kid.
+   - **Why it stands out:** UCLA has that ideal mix of historic architecture, big-school energy, and polished campus beauty.
+   - **Why you'll like it:** This is a practical inspiration stop for both your high schooler and college-age kid.
    - Estimated time: 2-3 hours
    - Maps: https://maps.google.com/?q=UCLA
    - Link: https://admission.ucla.edu/visit/maps-and-parking
 2. **Hollywood Walk of Fame + TCL Chinese Theatre**
-   - Why it is special: It is iconic LA movie history with recognizable landmarks every block.
-   - Why your family may like it: Big photo value and first-time LA payoff.
+   - **Why it stands out:** It is iconic LA movie history with recognizable landmarks every block.
+   - **Why you'll like it:** Big photo value and first-time LA payoff.
    - Estimated time: 2-2.5 hours
    - Maps (Walk): https://maps.google.com/?q=Hollywood+Walk+of+Fame
    - Maps (TCL): https://maps.google.com/?q=TCL+Chinese+Theatre
    - Link: https://walkoffame.com/
 3. **Rodeo Drive**
-   - Why it is special: Pure Beverly Hills luxury atmosphere, architecture, cars, fashion energy.
-   - Why your family may like it: Even without shopping, it is a great walk and people-watching zone.
+   - **Why it stands out:** Pure Beverly Hills luxury atmosphere, architecture, cars, fashion energy.
+   - **Why you'll like it:** Even without shopping, it is a great walk and people-watching zone.
    - Estimated time: 1-1.5 hours
    - Maps: https://maps.google.com/?q=Rodeo+Drive+Beverly+Hills
    - Link: https://www.rodeodrive-bh.com/
 4. **Griffith Observatory (optional night cap)**
-   - Why it is special: Best city-view payoff in LA with science exhibits and Hollywood Sign sightlines.
-   - Why your family may like it: Strong ending shot for your Sunday itinerary.
+   - **Why it stands out:** Best city-view payoff in LA with science exhibits and Hollywood Sign sightlines.
+   - **Why you'll like it:** Strong ending shot for your Sunday itinerary.
    - Estimated time: 1.5-2 hours
    - Maps: https://maps.google.com/?q=Griffith+Observatory
    - Link: https://griffithobservatory.org/visit/
@@ -261,70 +261,70 @@ Times are typical planning ranges in normal traffic windows and can spike in LA 
 
 ### UCSB Stop
 1. **UC Santa Barbara**
-   - Why it is special: One of the rare major universities set directly on the Pacific coast.
-   - Why your family may like it: Combines real admissions value with a beautiful destination feel.
+   - **Why it stands out:** One of the rare major universities set directly on the Pacific coast.
+   - **Why you'll like it:** Combines real admissions value with a beautiful destination feel.
    - Estimated time: 2-3 hours
    - Maps: https://maps.google.com/?q=UC+Santa+Barbara
    - Link: https://admissions.sa.ucsb.edu/campus-visits
 
 ### Post-Campus Places (make the long drive worth it)
 1. **Goleta Beach Park**
-   - Why it is special: Relaxed local beach/park with easy ocean views.
-   - Why your family may like it: A quick reset between campus and downtown.
+   - **Why it stands out:** Relaxed local beach/park with easy ocean views.
+   - **Why you'll like it:** A quick reset between campus and downtown.
    - Estimated time: 30-45 min
    - Maps: https://maps.google.com/?q=Goleta+Beach+Park
    - Link: https://www.countyofsb.org/parks/goleta-beach-park.sbc
 2. **Santa Barbara County Courthouse**
-   - Why it is special: Free tower view over red-tile rooftops and mountains.
-   - Why your family may like it: Huge visual payoff, low cost, great photos.
+   - **Why it stands out:** Free tower view over red-tile rooftops and mountains.
+   - **Why you'll like it:** Huge visual payoff, low cost, great photos.
    - Estimated time: 45-60 min
    - Maps: https://maps.google.com/?q=Santa+Barbara+County+Courthouse
    - Link: https://www.tripadvisor.com/Attraction_Review-g33045-d104224-Reviews-Santa_Barbara_County_Courthouse-Santa_Barbara_California.html
 3. **State Street**
-   - Why it is special: Main street with shops, cafes, and easy walking energy.
-   - Why your family may like it: Flexible stop with something for every age.
+   - **Why it stands out:** Main street with shops, cafes, and easy walking energy.
+   - **Why you'll like it:** Flexible stop with something for every age.
    - Estimated time: 1-1.5 hours
    - Maps: https://maps.google.com/?q=State+Street+Santa+Barbara
    - Link: https://santabarbaraca.com/
 4. **Stearns Wharf**
-   - Why it is special: Classic waterfront boardwalk with mountain-meets-ocean views.
-   - Why your family may like it: Easy, scenic, and quintessential California coastal vibe.
+   - **Why it stands out:** Classic waterfront boardwalk with mountain-meets-ocean views.
+   - **Why you'll like it:** Easy, scenic, and quintessential California coastal vibe.
    - Estimated time: 45-60 min
    - Maps: https://maps.google.com/?q=Stearns+Wharf+Santa+Barbara
    - Link: https://www.stearnswharf.org/
 5. **Santa Barbara Harbor**
-   - Why it is special: Calm marina setting with postcard views and seafood spots.
-   - Why your family may like it: Great late-afternoon walk before dinner.
+   - **Why it stands out:** Calm marina setting with postcard views and seafood spots.
+   - **Why you'll like it:** Great late-afternoon walk before dinner.
    - Estimated time: 30-45 min
    - Maps: https://maps.google.com/?q=Santa+Barbara+Harbor
    - Link: https://santabarbaraca.com/businesses/santa-barbara-harbor/
 6. **Funk Zone**
-   - Why it is special: Artsy warehouse district with murals, tasting rooms, and creative shops.
-   - Why your family may like it: Feels current and local, not generic tourist strip.
+   - **Why it stands out:** Artsy warehouse district with murals, tasting rooms, and creative shops.
+   - **Why you'll like it:** Feels current and local, not generic tourist strip.
    - Estimated time: 1-2 hours
    - Maps: https://maps.google.com/?q=Funk+Zone+Santa+Barbara
    - Link: https://santabarbaraca.com/like-a-local/the-funk-zone/
 7. **Old Mission Santa Barbara**
-   - Why it is special: Historic landmark with iconic architecture and gardens.
-   - Why your family may like it: Strong culture/history contrast to beach/theme-park days.
+   - **Why it stands out:** Historic landmark with iconic architecture and gardens.
+   - **Why you'll like it:** Strong culture/history contrast to beach/theme-park days.
    - Estimated time: 45-75 min
    - Maps: https://maps.google.com/?q=Old+Mission+Santa+Barbara
    - Link: https://www.santabarbaramission.org/
 8. **MOXI (The Wolf Museum of Exploration + Innovation)**
-   - Why it is special: Hands-on science/tech museum with rooftop exhibits.
-   - Why your family may like it: Interactive and fun even for older kids/young adults.
+   - **Why it stands out:** Hands-on science/tech museum with rooftop exhibits.
+   - **Why you'll like it:** Interactive and fun even for older kids/young adults.
    - Estimated time: 60-90 min
    - Maps: https://maps.google.com/?q=MOXI+Santa+Barbara
    - Link: https://moxi.org/
 9. **Butterfly Beach (Montecito)**
-   - Why it is special: Cleaner, calmer upscale beach atmosphere.
-   - Why your family may like it: Excellent golden-hour wind-down before return drive.
+   - **Why it stands out:** Cleaner, calmer upscale beach atmosphere.
+   - **Why you'll like it:** Excellent golden-hour wind-down before return drive.
    - Estimated time: 30-45 min
    - Maps: https://maps.google.com/?q=Butterfly+Beach+Montecito
    - Link: https://www.countyofsb.org/parks/butterfly-beach.sbc
 10. **Shoreline Park**
-   - Why it is special: Elevated coastal overlook and sunset-friendly walking paths.
-   - Why your family may like it: One of the easiest scenic viewpoints in town.
+   - **Why it stands out:** Elevated coastal overlook and sunset-friendly walking paths.
+   - **Why you'll like it:** One of the easiest scenic viewpoints in town.
    - Estimated time: 30-45 min
    - Maps: https://maps.google.com/?q=Shoreline+Park+Santa+Barbara
    - Link: https://www.santabarbaraca.gov/government/departments/parks-recreation/waterfront-parks/shoreline-park
@@ -386,8 +386,8 @@ Times are typical planning ranges in normal traffic windows and can spike in LA 
 - Re-ride favorites in the last 90 minutes when lines often soften.
 
 1. **Six Flags Magic Mountain**
-   - Why it is special: Coaster-first park design with max-thrill focus all day.
-   - Why your family may like it: Better novelty vs your repeat Orlando Universal trips and a stronger adrenaline payoff for teens/college-age riders.
+   - **Why it stands out:** Coaster-first park design with max-thrill focus all day.
+   - **Why you'll like it:** Better novelty vs your repeat Orlando Universal trips and a stronger adrenaline payoff for teens/college-age riders.
    - Estimated time: 6-9 hours
    - Maps: https://maps.google.com/?q=Six+Flags+Magic+Mountain
    - Link: https://www.sixflags.com/magicmountain/plan-your-visit/park-hours
@@ -398,27 +398,27 @@ Times are typical planning ranges in normal traffic windows and can spike in LA 
 - Use CityWalk for easy post-park dinner and late-night energy.
 
 1. **Universal Studios Hollywood**
-   - Why it is special: A compact film-themed park with the World-Famous Studio Tour and major IP lands.
-   - Why your family may like it: Better for movie atmosphere and less intense than a full-throttle coaster day.
+   - **Why it stands out:** A compact film-themed park with the World-Famous Studio Tour and major IP lands.
+   - **Why you'll like it:** Better for movie atmosphere and less intense than a full-throttle coaster day.
    - Estimated time: 6-8 hours
    - Maps: https://maps.google.com/?q=Universal+Studios+Hollywood
    - Link: https://vacations.universalstudioshollywood.com/themeparktickets
 
 ### Night Options After Either Park
 1. **Old Town Newhall (easy decompression)**
-   - Why it is special: Historic small-downtown vibe with easier parking and relaxed pacing.
-   - Why your family may like it: Good low-stress landing after long ride queues.
+   - **Why it stands out:** Historic small-downtown vibe with easier parking and relaxed pacing.
+   - **Why you'll like it:** Good low-stress landing after long ride queues.
    - Estimated time: 1.5-2 hours
    - Maps: https://maps.google.com/?q=Old+Town+Newhall
 2. **Universal CityWalk (high-energy finish)**
-   - Why it is special: Nightlife-lite entertainment zone with food, dessert, and lights.
-   - Why your family may like it: Keeps the trip energy high on the final full night.
+   - **Why it stands out:** Nightlife-lite entertainment zone with food, dessert, and lights.
+   - **Why you'll like it:** Keeps the trip energy high on the final full night.
    - Estimated time: 2-3 hours
    - Maps: https://maps.google.com/?q=Universal+CityWalk+Hollywood
    - Link: https://www.universalstudioshollywood.com/web/en/us/things-to-do/citywalk
 3. **Griffith Observatory (scenic finale)**
-   - Why it is special: Best skyline payoff if you want to close big without another crowded venue.
-   - Why your family may like it: Memorable final-night photo + calmer pace.
+   - **Why it stands out:** Best skyline payoff if you want to close big without another crowded venue.
+   - **Why you'll like it:** Memorable final-night photo + calmer pace.
    - Estimated time: 1.5-2 hours
    - Maps: https://maps.google.com/?q=Griffith+Observatory
    - Link: https://griffithobservatory.org/visit/
@@ -496,23 +496,23 @@ Times are typical planning ranges in normal traffic windows and can spike in LA 
 Use these as swaps if weather, traffic, or energy changes.
 
 1. **The Getty Center**
-   - Why it is special: Free museum with major art and one of the best hilltop views in LA.
+   - **Why it stands out:** Free museum with major art and one of the best hilltop views in LA.
    - Maps: https://maps.google.com/?q=The+Getty+Center
    - Link: https://www.getty.edu/visit/center/
 2. **Academy Museum of Motion Pictures**
-   - Why it is special: Deep movie-making exhibits that pair well with your Hollywood day.
+   - **Why it stands out:** Deep movie-making exhibits that pair well with your Hollywood day.
    - Maps: https://maps.google.com/?q=Academy+Museum+of+Motion+Pictures
    - Link: https://www.academymuseum.org/en/visit
 3. **LACMA + Urban Light**
-   - Why it is special: Iconic photo stop plus major art collection.
+   - **Why it stands out:** Iconic photo stop plus major art collection.
    - Maps: https://maps.google.com/?q=LACMA
    - Link: https://www.lacma.org/
 4. **The Grove + Original Farmers Market**
-   - Why it is special: Easy shopping + broad food choices in one stop.
+   - **Why it stands out:** Easy shopping + broad food choices in one stop.
    - Maps: https://maps.google.com/?q=The+Grove+Los+Angeles
    - Link: https://thegrovela.com/
 5. **Warner Bros. Studio Tour**
-   - Why it is special: Behind-the-scenes production experience that feels very LA.
+   - **Why it stands out:** Behind-the-scenes production experience that feels very LA.
    - Maps: https://maps.google.com/?q=Warner+Bros+Studio+Tour+Hollywood
    - Link: https://www.wbstudiotour.com/
 
@@ -567,15 +567,21 @@ Use these as swaps if weather, traffic, or energy changes.
 - Old Mission Santa Barbara reviews: https://www.tripadvisor.com/Attraction_Review-g33045-d104226-Reviews-Old_Mission_Santa_Barbara-Santa_Barbara_California.html
 
 ### Hotel Pricing/Distance Sources
-- Expedia: Hilton Los Angeles Culver City: https://www.expedia.com/Los-Angeles-Hotels-Hilton-Los-Angeles-Culver-City.h5575.Hotel-Information
-- Expedia: Courtyard by Marriott Culver City Los Angeles: https://www.expedia.com/Los-Angeles-Hotels-Courtyard-By-Marriott-Culver-City-Los-Angeles.h1427108.Hotel-Information
-- Expedia: Four Points by Sheraton Los Angeles Westside: https://www.expedia.com/Los-Angeles-Hotels-Four-Points-By-Sheraton-Los-Angeles-Westside.h10025.Hotel-Information
-- Expedia: Best Western Royal Palace Inn & Suites: https://www.expedia.com/Los-Angeles-Hotels-Best-Western-Royal-Palace-Inn-Suites.h20311.Hotel-Information
-- Expedia: Courtyard by Marriott Los Angeles Century City/Beverly Hills: https://www.expedia.com/Los-Angeles-Hotels-Courtyard-By-Marriott-Los-Angeles-Century-CityBeverly-Hills.h19742.Hotel-Information
-- Expedia: Loews Hollywood Hotel: https://www.expedia.com/Los-Angeles-Hotels-Loews-Hollywood-Hotel.h17220.Hotel-Information
+- Expedia: Hilton Los Angeles Culver City: https://www.expedia.com/Los-Angeles-Hotels-Hilton-Los-Angeles-Culver-City.h21939.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4
+- Expedia: Courtyard by Marriott Culver City Los Angeles: https://www.expedia.com/Los-Angeles-Hotels-Courtyard-By-Marriott-Los-Angeles-Westside.h23614.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4
+- Expedia: Four Points by Sheraton Los Angeles Westside: https://www.expedia.com/Los-Angeles-Hotels-Four-Points-By-Sheraton-Los-Angeles-Westside.h5.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4
+- Expedia: Holiday Inn Express West Los Angeles-Santa Monica: https://www.expedia.com/Los-Angeles-Hotels-Holiday-Inn-Express-West-Los-Angeles.h19104.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4
+- Expedia: Gateway Hotel Santa Monica: https://www.expedia.com/Los-Angeles-Hotels-Gateway-Hotel-Santa-Monica.h20112885.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4
+- Expedia: Hotel Angeleno: https://www.expedia.com/Los-Angeles-Hotels-Hotel-Angeleno.h21848.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4
+- Expedia: Hilton Garden Inn Los Angeles Marina Del Rey: https://www.expedia.com/Los-Angeles-Hotels-Hilton-Garden-Inn-Marina-Del-Rey.h9089.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4
+- Expedia: Found Santa Monica: https://www.expedia.com/Los-Angeles-Hotels-FOUND-Los-Angeles-Santa-Monica.h41510539.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4
+- Expedia: Courtyard by Marriott Los Angeles Century City/Beverly Hills: https://www.expedia.com/Los-Angeles-Hotels-Courtyard-By-Marriott-Los-Angeles-Century-CityBeverly-Hills.h2657.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4
+- Expedia: Best Western Royal Palace Inn & Suites: https://www.expedia.com/Los-Angeles-Hotels-Best-Western-Royal-Palace-Inn-Suites.h40680.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4
+- Expedia: Loews Hollywood Hotel: https://www.expedia.com/Los-Angeles-Hotels-Loews-Hollywood-Hotel.h790158.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4
 - Travelmath distance/time baseline (Culver City): https://www.travelmath.com/
 - Rome2Rio routing context (Culver City <> Six Flags): https://www.rome2rio.com/s/Culver-City/Six-Flags-Magic-Mountain
 
 ## Notes on "Popular Menu Items"
 - Items listed above come from official menus/signature dish descriptions and widely repeated traveler/reviewer mentions.
 - Menus rotate and seasonal items change, so verify directly on each restaurant site before travel.
+
