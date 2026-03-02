@@ -7,100 +7,31 @@
 - Transportation: Rental car
 - Must-do list covered: UCLA, UCSB, Santa Monica, Hollywood, Rodeo Drive, Six Flags Magic Mountain
 - Hotel budget target: about $200/night, open to ~$250/night for better comparisons
+- Hotel section format: Combined options + Expedia (single room/night) + drive times for Santa Monica and Universal only
 
-## Hotel Base Options (~$200/night, 8 total options)
-These are strong LA-area anchors to keep your drives balanced. Rates are dynamic, but these are commonly in the ~$180-$250 band depending on day and cancellation terms.
+## Hotel Options (Combined)
+All hotel planning is in one section below: base options, Expedia booking links with single-room nightly pricing, and drive times for only Santa Monica and Universal Studios Hollywood.
 
-1. Hilton Los Angeles Culver City
-   - Why this works: Reliable full-service base with practical access to I-10 and 405.
-   - Maps: <a href="https://maps.google.com/?q=Hilton+Los+Angeles+Culver+City" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
-   - Link: <a href="https://www.hilton.com/en/hotels/laxcchf-hilton-los-angeles-culver-city/" target="_blank" rel="noopener noreferrer">Official Site</a>
-2. Courtyard Los Angeles Westside
-   - Why this works: Usually a good value/comfort middle ground for family travel.
-   - Maps: <a href="https://maps.google.com/?q=Courtyard+Los+Angeles+Westside+Culver+City" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
-   - Link: <a href="https://www.marriott.com/en-us/hotels/laxcw-courtyard-los-angeles-westside/" target="_blank" rel="noopener noreferrer">Official Site</a>
-3. Four Points by Sheraton Los Angeles Westside
-   - Why this works: Often lands near budget target with solid parking/location convenience.
-   - Maps: <a href="https://maps.google.com/?q=Four+Points+by+Sheraton+Los+Angeles+Westside" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
-   - Link: <a href="https://www.marriott.com/en-us/hotels/laxfp-four-points-los-angeles-westside/" target="_blank" rel="noopener noreferrer">Official Site</a>
-4. Holiday Inn Express West Los Angeles-Santa Monica
-   - Why this works: Faster beach/UCLA access with simpler in-out logistics.
-   - Maps: <a href="https://maps.google.com/?q=Holiday+Inn+Express+West+Los+Angeles+Santa+Monica" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
-   - Link: <a href="https://www.ihg.com/holidayinnexpress/hotels/us/en/los-angeles/laxca/hoteldetail" target="_blank" rel="noopener noreferrer">Official Site</a>
-5. Gateway Hotel Santa Monica
-   - Why this works: Usually strong value for a Santa Monica-adjacent location with easy UCLA access.
-   - Maps: <a href="https://maps.google.com/?q=Gateway+Hotel+Santa+Monica" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
-   - Link: <a href="https://www.expedia.com/Los-Angeles-Hotels-Gateway-Hotel-Santa-Monica.h20112885.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Expedia (Jul 18-22, 2 rooms, 4 adults)</a>
-6. Hotel Angeleno
-   - Why this works: Good freeway position for UCLA, Santa Monica, and Universal routing.
-   - Maps: <a href="https://maps.google.com/?q=Hotel+Angeleno+Los+Angeles" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
-   - Link: <a href="https://www.expedia.com/Los-Angeles-Hotels-Hotel-Angeleno.h21848.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Expedia (Jul 18-22, 2 rooms, 4 adults)</a>
-7. Hilton Garden Inn Los Angeles Marina Del Rey
-   - Why this works: Marina/Westside location with decent access to Santa Monica and Culver City.
-   - Maps: <a href="https://maps.google.com/?q=Hilton+Garden+Inn+Los+Angeles+Marina+Del+Rey" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
-   - Link: <a href="https://www.expedia.com/Los-Angeles-Hotels-Hilton-Garden-Inn-Marina-Del-Rey.h9089.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Expedia (Jul 18-22, 2 rooms, 4 adults)</a>
-8. Found Santa Monica
-   - Why this works: Westside base close to Santa Monica and UCLA with walkable dining nearby.
-   - Maps: <a href="https://maps.google.com/?q=Found+Santa+Monica" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
-   - Link: <a href="https://www.expedia.com/Los-Angeles-Hotels-FOUND-Los-Angeles-Santa-Monica.h41510539.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Expedia (Jul 18-22, 2 rooms, 4 adults)</a>
+- Booking filter to use:
+  - Set a hard cap on total nightly cost with fees.
+  - Prioritize refundable rates.
+  - Check parking cost before booking.
 
-Booking filter to use:
-- Set a hard cap on total nightly cost with fees.
-- Prioritize refundable rates.
-- Check parking cost before booking.
-
-## Additional Hotel Options (~$250/night)
-1. Loews Hollywood Hotel
-   - Why this works: Premium location for Hollywood day and easier access to Universal-area activities.
-   - Maps: <a href="https://maps.google.com/?q=Loews+Hollywood+Hotel" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
-   - Link: <a href="https://www.loewshotels.com/hollywood-hotel" target="_blank" rel="noopener noreferrer">Official Site</a>
-2. Courtyard by Marriott Los Angeles Century City/Beverly Hills
-   - Why this works: Very central for UCLA, Rodeo Drive, and Santa Monica balance.
-   - Maps: <a href="https://maps.google.com/?q=Courtyard+Los+Angeles+Century+City+Beverly+Hills" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
-   - Link: <a href="https://www.marriott.com/en-us/hotels/laxce-courtyard-los-angeles-century-city-beverly-hills/overview/" target="_blank" rel="noopener noreferrer">Official Site</a>
-3. Best Western Royal Palace Inn & Suites
-   - Why this works: Strong value location with direct Westside practicality for your itinerary.
-   - Maps: <a href="https://maps.google.com/?q=Best+Western+Royal+Palace+Inn+%26+Suites+Los+Angeles" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
-   - Link: <a href="https://www.bestwesternroyalpalace.com/" target="_blank" rel="noopener noreferrer">Official Site</a>
-
-## Expedia Booking Links + Live Price Snapshot (Jul 18-22, 2026)
-Assumptions for comparison: **2 rooms, 4 adults, 4 nights** (check-in `2026-07-18`, check-out `2026-07-22`).
-Price snapshot timestamp: **February 27, 2026**.
-
-Important pricing note:
-- Expedia prices are dynamic and can change hourly.
-- Expedia pages available to me expose reliable *base rates* for near-term stays; exact July totals should be confirmed via the dated links below.
-- Estimated totals below are planning numbers to compare hotels quickly.
-
-| Hotel | Expedia dated link (clickable) | Expedia base snapshot* | Est. nightly for your trip (2 rooms combined) | Est. total incl. taxes/fees (4 nights) |
+| Hotel | Why this works | Expedia (1 room / night) | Santa Monica drive | Universal drive |
 |---|---|---|---|---|
-| Hilton Los Angeles Culver City | <a href="https://www.expedia.com/Los-Angeles-Hotels-Hilton-Los-Angeles-Culver-City.h21939.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Open on Expedia</a> | From ~$163/night (1 room, 2 adults, near-term) | ~$360-$430 | ~$1,670-$2,000 |
-| Courtyard by Marriott Culver City Los Angeles | <a href="https://www.expedia.com/Los-Angeles-Hotels-Courtyard-By-Marriott-Los-Angeles-Westside.h23614.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Open on Expedia</a> | From ~$157/night (1 room, 2 adults, near-term) | ~$340-$420 | ~$1,580-$1,950 |
-| Four Points by Sheraton Los Angeles Westside | <a href="https://www.expedia.com/Los-Angeles-Hotels-Four-Points-By-Sheraton-Los-Angeles-Westside.h5.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Open on Expedia</a> | From ~$178/night (1 room, 2 adults, near-term) | ~$390-$470 | ~$1,810-$2,180 |
-| Holiday Inn Express West Los Angeles-Santa Monica | <a href="https://www.expedia.com/Los-Angeles-Hotels-Holiday-Inn-Express-West-Los-Angeles.h19104.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Open on Expedia</a> | Parking shown; no stable public base snapshot on fetched page | ~$360-$460 | ~$1,670-$2,130 |
-| Gateway Hotel Santa Monica | <a href="https://www.expedia.com/Los-Angeles-Hotels-Gateway-Hotel-Santa-Monica.h20112885.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Open on Expedia</a> | Value-positioned Westside listing (date-linked search) | ~$360-$470 | ~$1,670-$2,180 |
-| Hotel Angeleno | <a href="https://www.expedia.com/Los-Angeles-Hotels-Hotel-Angeleno.h21848.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Open on Expedia</a> | Midscale boutique listing (date-linked search) | ~$380-$500 | ~$1,760-$2,320 |
-| Hilton Garden Inn Los Angeles Marina Del Rey | <a href="https://www.expedia.com/Los-Angeles-Hotels-Hilton-Garden-Inn-Marina-Del-Rey.h9089.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Open on Expedia</a> | Marina-adjacent midscale listing (date-linked search) | ~$390-$520 | ~$1,810-$2,410 |
-| Found Santa Monica | <a href="https://www.expedia.com/Los-Angeles-Hotels-FOUND-Los-Angeles-Santa-Monica.h41510539.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Open on Expedia</a> | Budget-leaning Westside listing (date-linked search) | ~$330-$430 | ~$1,530-$2,000 |
-| Courtyard LA Century City/Beverly Hills | <a href="https://www.expedia.com/Los-Angeles-Hotels-Courtyard-By-Marriott-Los-Angeles-Century-CityBeverly-Hills.h2657.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Open on Expedia</a> | From ~$229/night (1 room, 2 adults, near-term) | ~$470-$560 | ~$2,180-$2,600 |
-| Best Western Royal Palace Inn & Suites | <a href="https://www.expedia.com/Los-Angeles-Hotels-Best-Western-Royal-Palace-Inn-Suites.h40680.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Open on Expedia</a> | From ~$168/night (1 room, 2 adults, near-term) | ~$350-$430 | ~$1,620-$2,000 |
-| Loews Hollywood Hotel | <a href="https://www.expedia.com/Los-Angeles-Hotels-Loews-Hollywood-Hotel.h790158.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Open on Expedia</a> | From ~$233/night (1 room, 2 adults, near-term) | ~$500-$620 | ~$2,320-$2,880 |
+| Hilton Los Angeles Culver City | Reliable full-service base with practical access to I-10 and 405. | From ~$163/night (<a href="https://www.expedia.com/Los-Angeles-Hotels-Hilton-Los-Angeles-Culver-City.h21939.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Expedia</a>) | ~7 mi \| 15-30 min | ~12 mi \| 25-50 min |
+| Courtyard by Marriott Culver City Los Angeles | Usually a good value/comfort middle ground for family travel. | From ~$157/night (<a href="https://www.expedia.com/Los-Angeles-Hotels-Courtyard-By-Marriott-Los-Angeles-Westside.h23614.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Expedia</a>) | ~7 mi \| 15-30 min | ~12 mi \| 25-50 min |
+| Four Points by Sheraton Los Angeles Westside | Often lands near budget target with solid parking/location convenience. | From ~$178/night (<a href="https://www.expedia.com/Los-Angeles-Hotels-Four-Points-By-Sheraton-Los-Angeles-Westside.h5.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Expedia</a>) | ~7 mi \| 15-30 min | ~12 mi \| 25-50 min |
+| Holiday Inn Express West Los Angeles-Santa Monica | Faster beach/UCLA access with simpler in-out logistics. | See live rate (<a href="https://www.expedia.com/Los-Angeles-Hotels-Holiday-Inn-Express-West-Los-Angeles.h19104.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Expedia</a>) | ~5 mi \| 10-20 min | ~12 mi \| 25-50 min |
+| Gateway Hotel Santa Monica | Usually strong value for a Santa Monica-adjacent location with easy UCLA access. | Value-positioned listing (<a href="https://www.expedia.com/Los-Angeles-Hotels-Gateway-Hotel-Santa-Monica.h20112885.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Expedia</a>) | ~2 mi \| 8-15 min | ~16 mi \| 35-70 min |
+| Hotel Angeleno | Good freeway position for UCLA, Santa Monica, and Universal routing. | Midscale boutique listing (<a href="https://www.expedia.com/Los-Angeles-Hotels-Hotel-Angeleno.h21848.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Expedia</a>) | ~6 mi \| 15-30 min | ~10 mi \| 20-40 min |
+| Hilton Garden Inn Los Angeles Marina Del Rey | Marina/Westside location with decent access to Santa Monica and Culver City. | Marina-adjacent listing (<a href="https://www.expedia.com/Los-Angeles-Hotels-Hilton-Garden-Inn-Marina-Del-Rey.h9089.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Expedia</a>) | ~4 mi \| 12-25 min | ~16 mi \| 35-70 min |
+| Found Santa Monica | Westside base close to Santa Monica and UCLA with walkable dining nearby. | Budget-leaning listing (<a href="https://www.expedia.com/Los-Angeles-Hotels-FOUND-Los-Angeles-Santa-Monica.h41510539.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Expedia</a>) | ~5 mi \| 10-20 min | ~13 mi \| 30-55 min |
+| Loews Hollywood Hotel | Premium location for Hollywood day and easier access to Universal-area activities. | From ~$233/night (<a href="https://www.expedia.com/Los-Angeles-Hotels-Loews-Hollywood-Hotel.h790158.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Expedia</a>) | ~14 mi \| 35-70 min | ~4 mi \| 10-20 min |
+| Courtyard LA Century City/Beverly Hills | Very central for UCLA, Rodeo Drive, and Santa Monica balance. | From ~$229/night (<a href="https://www.expedia.com/Los-Angeles-Hotels-Courtyard-By-Marriott-Los-Angeles-Century-CityBeverly-Hills.h2657.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Expedia</a>) | ~5 mi \| 12-25 min | ~11 mi \| 25-45 min |
+| Best Western Royal Palace Inn & Suites | Strong value location with direct Westside practicality for your itinerary. | From ~$168/night (<a href="https://www.expedia.com/Los-Angeles-Hotels-Best-Western-Royal-Palace-Inn-Suites.h40680.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4" target="_blank" rel="noopener noreferrer">Expedia</a>) | ~4 mi \| 10-20 min | ~13 mi \| 25-50 min |
 
-\*Base snapshots pulled from Expedia hotel pages/recent crawls, which generally quote **1 room / 2 adults / 1 night** in the next 30 days.
-
-## Drive Distance Matrix (From Hotel to Key Stops)
-Times are typical planning ranges in normal traffic windows and can spike in LA rush periods.
-
-| Hotel | Santa Monica | UCLA | Universal Studios Hollywood | Six Flags Magic Mountain | UCSB (Goleta/Santa Barbara) |
-|---|---|---|---|---|---|
-| Hilton Los Angeles Culver City | ~7 mi \| 15-30 min | ~6 mi \| 20-35 min | ~12 mi \| 25-50 min | ~35 mi \| 45-90 min | ~92 mi \| 1h40-2h50 |
-| Courtyard by Marriott Culver City Los Angeles | ~7 mi \| 15-30 min | ~6 mi \| 20-35 min | ~12 mi \| 25-50 min | ~35 mi \| 45-90 min | ~92 mi \| 1h40-2h50 |
-| Four Points by Sheraton Los Angeles Westside | ~7 mi \| 15-30 min | ~6 mi \| 20-35 min | ~12 mi \| 25-50 min | ~35 mi \| 45-90 min | ~92 mi \| 1h40-2h50 |
-| Holiday Inn Express West LA-Santa Monica | ~5 mi \| 10-20 min | ~3 mi \| 10-20 min | ~12 mi \| 25-50 min | ~34 mi \| 45-90 min | ~95 mi \| 1h45-2h55 |
-| Courtyard LA Century City/Beverly Hills | ~5 mi \| 12-25 min | ~4 mi \| 12-25 min | ~11 mi \| 25-45 min | ~33 mi \| 45-85 min | ~94 mi \| 1h45-2h50 |
-| Best Western Royal Palace Inn & Suites | ~4 mi \| 10-20 min | ~2 mi \| 8-18 min | ~13 mi \| 25-50 min | ~35 mi \| 50-90 min | ~96 mi \| 1h50-3h00 |
-| Loews Hollywood Hotel | ~14 mi \| 35-70 min | ~8 mi \| 25-45 min | ~4 mi \| 10-20 min | ~30 mi \| 40-80 min | ~95 mi \| 1h50-3h00 |
-| Hilton Los Angeles/Universal City | ~16 mi \| 35-75 min | ~11 mi \| 25-50 min | ~1 mi \| 5-10 min | ~28 mi \| 35-75 min | ~96 mi \| 1h50-3h00 |
+Pricing snapshot timestamp: **February 27, 2026**. Expedia rates are dynamic and should be rechecked before booking.
 
 ## Day 1 - Saturday: Arrival + Santa Monica
 
