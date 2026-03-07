@@ -103,19 +103,24 @@ Pricing snapshot timestamp: **February 27, 2026**. Parking details researched **
    - Maps: <a href="https://maps.google.com/?q=Mercado+Santa+Monica" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
    - Link: <a href="https://www.cantinahg.com/mercado-santa-monica/" target="_blank" rel="noopener noreferrer">Official Site</a>
 
-## Day 2 - Sunday: UCLA (Self-Guided Morning) + Hollywood + Rodeo Drive
+## Day 2 - Sunday: UCLA (Self-Guided Morning) + Rodeo Drive + Koreatown + Hollywood
+
+Best day for Koreatown: **Sunday**. It is the most flexible central-LA day, and Koreatown fits naturally between Westwood/UCLA and Hollywood without disrupting Santa Monica, Santa Barbara, or the theme park day.
 
 ### Option A (recommended)
 - Morning UCLA self-guided route
-- Westwood lunch
+- Rodeo Drive
+- Koreatown lunch at Lasung House
+- Matcha stop in Koreatown
 - Hollywood Walk of Fame + TCL Chinese Theatre
-- Rodeo Drive at golden hour
-- Dinner in Beverly Hills/West Hollywood
+- Griffith Observatory or dinner after Hollywood
 
 ### Option B
 - UCLA self-guided
-- Rodeo Drive first
-- Hollywood at dusk
+- Quick Westwood snack
+- Koreatown lunch first
+- Hollywood in mid/late afternoon
+- Rodeo Drive at golden hour
 - Griffith Observatory night views
 
 ### Core Stops
@@ -125,20 +130,30 @@ Pricing snapshot timestamp: **February 27, 2026**. Parking details researched **
    - Estimated time: 2-3 hours
    - Maps: <a href="https://maps.google.com/?q=UCLA" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
    - Link: <a href="https://admission.ucla.edu/visit/maps-and-parking" target="_blank" rel="noopener noreferrer">Official Site</a>
-2. **Hollywood Walk of Fame + TCL Chinese Theatre**
+2. **Rodeo Drive**
+   - **Why it stands out:** Pure Beverly Hills luxury atmosphere, architecture, cars, fashion energy.
+   - **Why you'll like it:** Even without shopping, it is a great walk and people-watching zone.
+   - Estimated time: 1-1.5 hours
+   - Maps: <a href="https://maps.google.com/?q=Rodeo+Drive+Beverly+Hills" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
+   - Link: <a href="https://www.rodeodrive-bh.com/" target="_blank" rel="noopener noreferrer">Official Site</a>
+3. **Koreatown + Lasung House + Matcha Stop**
+   - **Why it stands out:** This gives you a more local LA neighborhood block in the middle of the sightseeing day instead of only checking off tourist corridors.
+   - **Why you'll like it:** Lasung House is directly in Koreatown, and this is the cleanest day to pair it with a good matcha stop without forcing a long detour.
+   - Suggested sequence: lunch at **Lasung House** -> quick look around Koreatown -> **DAMO Tea House** for matcha or Alfred Coffee Koreatown if you want the easier in-and-out stop
+   - Estimated time: 2-3 hours
+   - Maps (Lasung House): <a href="https://maps.google.com/?q=Lasung+House+Los+Angeles" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
+   - Maps (DAMO): <a href="https://maps.google.com/?q=DAMO+Tea+House+Los+Angeles" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
+   - Maps (Alfred Koreatown): <a href="https://maps.google.com/?q=Alfred+Coffee+Koreatown" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
+   - Link (Lasung House): <a href="https://www.la-sung.com/" target="_blank" rel="noopener noreferrer">Official Site</a>
+   - Link (Alfred Koreatown): <a href="https://locations.alfred.la/koreatown" target="_blank" rel="noopener noreferrer">Official Site</a>
+4. **Hollywood Walk of Fame + TCL Chinese Theatre**
    - **Why it stands out:** It is iconic LA movie history with recognizable landmarks every block.
    - **Why you'll like it:** Big photo value and first-time LA payoff.
    - Estimated time: 2-2.5 hours
    - Maps (Walk): <a href="https://maps.google.com/?q=Hollywood+Walk+of+Fame" target="_blank" rel="noopener noreferrer">Open Link</a>
    - Maps (TCL): <a href="https://maps.google.com/?q=TCL+Chinese+Theatre" target="_blank" rel="noopener noreferrer">Open Link</a>
    - Link: <a href="https://walkoffame.com/" target="_blank" rel="noopener noreferrer">Official Site</a>
-3. **Rodeo Drive**
-   - **Why it stands out:** Pure Beverly Hills luxury atmosphere, architecture, cars, fashion energy.
-   - **Why you'll like it:** Even without shopping, it is a great walk and people-watching zone.
-   - Estimated time: 1-1.5 hours
-   - Maps: <a href="https://maps.google.com/?q=Rodeo+Drive+Beverly+Hills" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
-   - Link: <a href="https://www.rodeodrive-bh.com/" target="_blank" rel="noopener noreferrer">Official Site</a>
-4. **Griffith Observatory (optional night cap)**
+5. **Griffith Observatory (optional night cap)**
    - **Why it stands out:** Best city-view payoff in LA with science exhibits and Hollywood Sign sightlines.
    - **Why you'll like it:** Strong ending shot for your Sunday itinerary.
    - Estimated time: 1.5-2 hours
@@ -160,21 +175,35 @@ Pricing snapshot timestamp: **February 27, 2026**. Parking details researched **
    - Price: $$-$$$
    - Maps: <a href="https://maps.google.com/?q=Kazunori+Westwood" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
    - Link: <a href="https://www.kazunori.com/" target="_blank" rel="noopener noreferrer">Official Site</a>
-3. **L'Antica Pizzeria da Michele (Hollywood)**
+3. **Lasung House (Koreatown)**
+   - Cuisine: Korean-style jumbo pork cutlet
+   - Popular menu items: Korean-style jumbo pork cutlet specialties
+   - Why go: This is the cleanest lunch target for the new Koreatown stop, and it is open daily on Olympic in the middle of the route.
+   - Price: $$ 
+   - Maps: <a href="https://maps.google.com/?q=Lasung+House+Los+Angeles" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
+   - Link: <a href="https://www.la-sung.com/" target="_blank" rel="noopener noreferrer">Official Site</a>
+4. **DAMO Tea House (Koreatown)**
+   - Cuisine: Tea house / cafe
+   - Popular menu items: Matcha latte, matcha einspanner, hojicha drinks, traditional Korean tea snacks
+   - Why go: Best fit if you specifically want a real matcha-focused Koreatown stop instead of just grabbing a coffee-shop matcha.
+   - Price: $$ 
+   - Maps: <a href="https://maps.google.com/?q=DAMO+Tea+House+Los+Angeles" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
+   - Link: <a href="https://visitkoreatown.org/damo/" target="_blank" rel="noopener noreferrer">Local listing</a>
+5. **L'Antica Pizzeria da Michele (Hollywood)**
    - Cuisine: Neapolitan pizza + Italian classics
    - Popular menu items: Margherita, Diavola, Pappardelle Genovese, Tiramisu
    - Why go: Destination-level Hollywood dinner with strong group-friendly menu.
    - Price: $$-$$$
    - Maps: <a href="https://maps.google.com/?q=L'Antica+Pizzeria+da+Michele+Hollywood" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
    - Link: <a href="https://damicheleusa.com/dinner-brunch/" target="_blank" rel="noopener noreferrer">Official Site</a>
-4. **Musso & Frank Grill**
+6. **Musso & Frank Grill**
    - Cuisine: Classic American steakhouse/old Hollywood
    - Popular menu items: Flannel Cakes (brunch), Fettuccine Alfredo, Filet, Martini service
    - Why go: If you want true old-Hollywood dining history, this is it.
    - Price: $$$
    - Maps: <a href="https://maps.google.com/?q=Musso+and+Frank+Grill" target="_blank" rel="noopener noreferrer">Open in Google Maps</a>
    - Link: <a href="https://mussoandfrank.com/" target="_blank" rel="noopener noreferrer">Official Site</a>
-5. **Il Pastaio (Beverly Hills)**
+7. **Il Pastaio (Beverly Hills)**
    - Cuisine: Upscale Italian
    - Popular menu items: Pumpkin Ravioli, Arrabbiata, Squid Ink Risotto, seasonal pastas
    - Why go: Excellent Rodeo-area sit-down option that feels celebratory without being stuffy.
@@ -473,6 +502,7 @@ Use these as swaps if weather, traffic, or energy changes.
 - Santa Monica Pier official: <a href="https://santamonicapier.org/" target="_blank" rel="noopener noreferrer">Open Link</a>
 - Hollywood Walk of Fame official: <a href="https://walkoffame.com/" target="_blank" rel="noopener noreferrer">Open Link</a>
 - Rodeo Drive official: <a href="https://www.rodeodrive-bh.com/" target="_blank" rel="noopener noreferrer">Open Link</a>
+- Discover Los Angeles: Koreatown guide: <a href="https://www.discoverlosangeles.com/things-to-do/explore/koreatown" target="_blank" rel="noopener noreferrer">Open Link</a>
 - Griffith Observatory visit info: <a href="https://griffithobservatory.org/visit/" target="_blank" rel="noopener noreferrer">Open Link</a>
 
 ### Restaurant/Menu Sources
@@ -484,6 +514,8 @@ Use these as swaps if weather, traffic, or energy changes.
 - Musso & Frank: <a href="https://mussoandfrank.com/" target="_blank" rel="noopener noreferrer">Open Link</a>
 - Il Pastaio menu: <a href="https://www.ilpastaiobeverlyhills.com/menu/" target="_blank" rel="noopener noreferrer">Open Link</a>
 - Kazunori: <a href="https://www.kazunori.com/" target="_blank" rel="noopener noreferrer">Open Link</a>
+- Lasung House: <a href="https://www.la-sung.com/" target="_blank" rel="noopener noreferrer">Open Link</a>
+- Alfred Coffee Koreatown: <a href="https://locations.alfred.la/koreatown" target="_blank" rel="noopener noreferrer">Open Link</a>
 - Los Agaves SB menu: <a href="https://los-agaves.com/santa-barbara-menu" target="_blank" rel="noopener noreferrer">Open Link</a>
 - Brophy Bros: <a href="https://www.brophybros.com/" target="_blank" rel="noopener noreferrer">Open Link</a>
 - Lucky Penny: <a href="https://www.luckypennysb.com/" target="_blank" rel="noopener noreferrer">Open Link</a>
@@ -493,6 +525,7 @@ Use these as swaps if weather, traffic, or energy changes.
 ### Review/Traveler Context Sources
 - Santa Monica Pier reviews: <a href="https://www.tripadvisor.com/Attraction_Review-g33052-d104238-Reviews-Santa_Monica_Pier-Santa_Monica_California.html" target="_blank" rel="noopener noreferrer">Open Link</a>
 - Rodeo Drive reviews: <a href="https://www.tripadvisor.com/Attraction_Review-g32655-d104674-Reviews-Rodeo_Drive-Los_Angeles_California.html" target="_blank" rel="noopener noreferrer">Open Link</a>
+- DAMO Tea House local listing: <a href="https://visitkoreatown.org/damo/" target="_blank" rel="noopener noreferrer">Open Link</a>
 - Six Flags reviews: <a href="https://www.tripadvisor.com/Attraction_Review-g32655-d156844-Reviews-Six_Flags_Magic_Mountain-Los_Angeles_California.html" target="_blank" rel="noopener noreferrer">Open Link</a>
 - Santa Barbara Courthouse reviews: <a href="https://www.tripadvisor.com/Attraction_Review-g33045-d104224-Reviews-Santa_Barbara_County_Courthouse-Santa_Barbara_California.html" target="_blank" rel="noopener noreferrer">Open Link</a>
 - Old Mission Santa Barbara reviews: <a href="https://www.tripadvisor.com/Attraction_Review-g33045-d104226-Reviews-Old_Mission_Santa_Barbara-Santa_Barbara_California.html" target="_blank" rel="noopener noreferrer">Open Link</a>
