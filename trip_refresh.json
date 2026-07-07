@@ -1,0 +1,183 @@
+{
+  "markdown_file": "LA-LasVegas.md",
+  "flight_snapshot_date": "March 9, 2026",
+  "flight_intro": "Filters used: **non-stop only**, **arrive before 6:00 PM on Saturday, July 18, 2026**, and **depart LAS no later than 4:00 PM on Wednesday, July 22, 2026**. Flight schedules and fares can move, so rerun this updater before booking.",
+  "flight_sections": [
+    {
+      "title": "BWI",
+      "notes": [],
+      "rows": [
+        {
+          "date": "Sat, Jul 18",
+          "route": "BWI -> LAX",
+          "best_fit": "**United UA2221**: 8:37 AM -> 11:39 AM",
+          "price": "Check live fare",
+          "why": "Clear nonstop option that lands well before 6:00 PM. Southwest also has nonstop service on this route, and FlightsFrom currently lists Spirit beginning BWI-LAX service on **April 16, 2026**."
+        },
+        {
+          "date": "Wed, Jul 22",
+          "route": "LAS -> BWI",
+          "best_fit": "**Southwest nonstop**",
+          "price": "Check live fare",
+          "why": "This is the only nonstop airline currently shown on LAS-BWI, with **4-5 daily nonstop flights** on the route, so you should have multiple choices that leave before 4:00 PM."
+        }
+      ]
+    },
+    {
+      "title": "NYC",
+      "notes": [
+        "**LGA:** no nonstop `LGA -> LAX` service is currently shown, so it does **not** meet the nonstop-only rule."
+      ],
+      "rows": [
+        {
+          "date": "Sat, Jul 18",
+          "route": "JFK -> LAX",
+          "best_fit": "**American AA1**: 6:59 AM -> 10:28 AM",
+          "price": "Check live fare",
+          "why": "Daily nonstop schedule pattern currently published into 2026, with an easy pre-6:00 PM arrival."
+        },
+        {
+          "date": "Sat, Jul 18",
+          "route": "EWR -> LAX",
+          "best_fit": "**JetBlue B6 1573**: about 8:50-9:15 AM -> about 11:40 AM-12:10 PM",
+          "price": "Check live fare",
+          "why": "EWR does have nonstop LAX service. Published schedules vary a bit by season, but this pattern is comfortably inside your arrival cutoff."
+        },
+        {
+          "date": "Wed, Jul 22",
+          "route": "LAS -> JFK",
+          "best_fit": "**JetBlue B6 148**: 7:00 AM -> 2:56 PM",
+          "price": "Check live fare",
+          "why": "Clean nonstop return and the safest JFK option relative to your LAS departure cutoff."
+        },
+        {
+          "date": "Wed, Jul 22",
+          "route": "LAS -> JFK",
+          "best_fit": "**JetBlue B6 348**: 12:55 PM -> 8:53 PM",
+          "price": "Check live fare",
+          "why": "Also nonstop and still leaves LAS before 4:00 PM if you prefer a later departure."
+        }
+      ]
+    }
+  ],
+  "hotel_intro": "All hotel planning is in one section below: base options, Expedia booking links with single-room nightly pricing, and drive times for only Santa Monica and Universal Studios Hollywood.",
+  "hotel_filters": [
+    "Set a hard cap on total nightly cost with fees.",
+    "Prioritize refundable rates.",
+    "Check parking cost before booking."
+  ],
+  "hotel_snapshot_date": "February 27, 2026",
+  "parking_details_date": "March 2, 2026",
+  "hotels": [
+    {
+      "name": "Hilton Los Angeles Culver City",
+      "why": "Reliable full-service base with practical access to I-10 and 405.",
+      "price_text": "From ~$163/night",
+      "price_link_label": "Expedia",
+      "expedia_url": "https://www.expedia.com/Los-Angeles-Hotels-Hilton-Los-Angeles-Culver-City.h21939.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4",
+      "parking": "Paid: self $48/day; valet $53/day",
+      "santa_monica_drive": "~7 mi | 15-30 min",
+      "universal_drive": "~12 mi | 25-50 min"
+    },
+    {
+      "name": "Courtyard by Marriott Culver City Los Angeles",
+      "why": "Usually a good value/comfort middle ground for family travel.",
+      "price_text": "From ~$157/night",
+      "price_link_label": "Expedia",
+      "expedia_url": "https://www.expedia.com/Los-Angeles-Hotels-Courtyard-By-Marriott-Los-Angeles-Westside.h23614.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4",
+      "parking": "Paid: self $30/day",
+      "santa_monica_drive": "~7 mi | 15-30 min",
+      "universal_drive": "~12 mi | 25-50 min"
+    },
+    {
+      "name": "Four Points by Sheraton Los Angeles Westside",
+      "why": "Often lands near budget target with solid parking/location convenience.",
+      "price_text": "From ~$178/night",
+      "price_link_label": "Expedia",
+      "expedia_url": "https://www.expedia.com/Los-Angeles-Hotels-Four-Points-By-Sheraton-Los-Angeles-Westside.h5.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4",
+      "parking": "Paid: self $27/day",
+      "santa_monica_drive": "~7 mi | 15-30 min",
+      "universal_drive": "~12 mi | 25-50 min"
+    },
+    {
+      "name": "Holiday Inn Express West Los Angeles-Santa Monica",
+      "why": "Faster beach/UCLA access with simpler in-out logistics.",
+      "price_text": "See live rate",
+      "price_link_label": "Expedia",
+      "expedia_url": "https://www.expedia.com/Los-Angeles-Hotels-Holiday-Inn-Express-West-Los-Angeles.h19104.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4",
+      "parking": "Paid: self $30/day",
+      "santa_monica_drive": "~5 mi | 10-20 min",
+      "universal_drive": "~12 mi | 25-50 min"
+    },
+    {
+      "name": "Gateway Hotel Santa Monica",
+      "why": "Usually strong value for a Santa Monica-adjacent location with easy UCLA access.",
+      "price_text": "Value-positioned listing",
+      "price_link_label": "Expedia",
+      "expedia_url": "https://www.expedia.com/Los-Angeles-Hotels-Gateway-Hotel-Santa-Monica.h20112885.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4",
+      "parking": "Paid: covered self $23/night",
+      "santa_monica_drive": "~2 mi | 8-15 min",
+      "universal_drive": "~16 mi | 35-70 min"
+    },
+    {
+      "name": "Hotel Angeleno",
+      "why": "Good freeway position for UCLA, Santa Monica, and Universal routing.",
+      "price_text": "Midscale boutique listing",
+      "price_link_label": "Expedia",
+      "expedia_url": "https://www.expedia.com/Los-Angeles-Hotels-Hotel-Angeleno.h21848.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4",
+      "parking": "Paid: valet $45/night",
+      "santa_monica_drive": "~6 mi | 15-30 min",
+      "universal_drive": "~10 mi | 20-40 min"
+    },
+    {
+      "name": "Hilton Garden Inn Los Angeles Marina Del Rey",
+      "why": "Marina/Westside location with decent access to Santa Monica and Culver City.",
+      "price_text": "Marina-adjacent listing",
+      "price_link_label": "Expedia",
+      "expedia_url": "https://www.expedia.com/Los-Angeles-Hotels-Hilton-Garden-Inn-Marina-Del-Rey.h9089.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4",
+      "parking": "Paid: self $32/day",
+      "santa_monica_drive": "~4 mi | 12-25 min",
+      "universal_drive": "~16 mi | 35-70 min"
+    },
+    {
+      "name": "Found Santa Monica",
+      "why": "Westside base close to Santa Monica and UCLA with walkable dining nearby.",
+      "price_text": "Budget-leaning listing",
+      "price_link_label": "Expedia",
+      "expedia_url": "https://www.expedia.com/Los-Angeles-Hotels-FOUND-Los-Angeles-Santa-Monica.h41510539.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4",
+      "parking": "Paid: on-site $33/day",
+      "santa_monica_drive": "~5 mi | 10-20 min",
+      "universal_drive": "~13 mi | 30-55 min"
+    },
+    {
+      "name": "Loews Hollywood Hotel",
+      "why": "Premium location for Hollywood day and easier access to Universal-area activities.",
+      "price_text": "From ~$233/night",
+      "price_link_label": "Expedia",
+      "expedia_url": "https://www.expedia.com/Los-Angeles-Hotels-Loews-Hollywood-Hotel.h790158.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4",
+      "parking": "Paid: self $25/day; valet $60/day",
+      "santa_monica_drive": "~14 mi | 35-70 min",
+      "universal_drive": "~4 mi | 10-20 min"
+    },
+    {
+      "name": "Courtyard LA Century City/Beverly Hills",
+      "why": "Very central for UCLA, Rodeo Drive, and Santa Monica balance.",
+      "price_text": "From ~$229/night",
+      "price_link_label": "Expedia",
+      "expedia_url": "https://www.expedia.com/Los-Angeles-Hotels-Courtyard-By-Marriott-Los-Angeles-Century-CityBeverly-Hills.h2657.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4",
+      "parking": "Paid: self $42/day; valet $42/day",
+      "santa_monica_drive": "~5 mi | 12-25 min",
+      "universal_drive": "~11 mi | 25-45 min"
+    },
+    {
+      "name": "Best Western Royal Palace Inn & Suites",
+      "why": "Strong value location with direct Westside practicality for your itinerary.",
+      "price_text": "From ~$168/night",
+      "price_link_label": "Expedia",
+      "expedia_url": "https://www.expedia.com/Los-Angeles-Hotels-Best-Western-Royal-Palace-Inn-Suites.h40680.Hotel-Information?chkin=2026-07-18&chkout=2026-07-22&rm1=a4",
+      "parking": "Paid: $17/day + tax",
+      "santa_monica_drive": "~4 mi | 10-20 min",
+      "universal_drive": "~13 mi | 25-50 min"
+    }
+  ]
+}

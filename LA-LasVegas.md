@@ -2,12 +2,31 @@
 
 ## Quick Snapshot
 - Travelers: 4 (2 teens/young adults)
-- Dates: Arrive Saturday, July 18, 2026 (~1:00 PM), depart early Wednesday, July 22, 2026
+- Dates: Arrive Saturday, July 18, 2026 (~1:00 PM), depart Wednesday, July 22, 2026
 - Base: Stay in Los Angeles for all 4 nights
 - Transportation: Rental car
 - Must-do list covered: UCLA, UCSB, Santa Monica, Hollywood, Rodeo Drive, Six Flags Magic Mountain
 - Hotel budget target: about $200/night, open to ~$250/night for better comparisons
 - Hotel section format: Combined options + Expedia (single room/night) + drive times for Santa Monica and Universal only
+
+## Flights
+Current schedule snapshot researched **March 9, 2026**. Filters used: **non-stop only**, **arrive before 6:00 PM on Saturday, July 18, 2026**, and **depart LAS no later than 4:00 PM on Wednesday, July 22, 2026**. Flight schedules and fares can move, so rerun this updater before booking.
+
+### BWI
+| Date | Route | Best nonstop fit | Current fare | Why it works |
+|---|---|---|---|---|
+| Sat, Jul 18 | BWI -> LAX | **United UA2221**: 8:37 AM -> 11:39 AM | Check live fare | Clear nonstop option that lands well before 6:00 PM. Southwest also has nonstop service on this route, and FlightsFrom currently lists Spirit beginning BWI-LAX service on **April 16, 2026**. |
+| Wed, Jul 22 | LAS -> BWI | **Southwest nonstop** | Check live fare | This is the only nonstop airline currently shown on LAS-BWI, with **4-5 daily nonstop flights** on the route, so you should have multiple choices that leave before 4:00 PM. |
+
+### NYC
+- **LGA:** no nonstop `LGA -> LAX` service is currently shown, so it does **not** meet the nonstop-only rule.
+
+| Date | Route | Best nonstop fit | Current fare | Why it works |
+|---|---|---|---|---|
+| Sat, Jul 18 | JFK -> LAX | **American AA1**: 6:59 AM -> 10:28 AM | Check live fare | Daily nonstop schedule pattern currently published into 2026, with an easy pre-6:00 PM arrival. |
+| Sat, Jul 18 | EWR -> LAX | **JetBlue B6 1573**: about 8:50-9:15 AM -> about 11:40 AM-12:10 PM | Check live fare | EWR does have nonstop LAX service. Published schedules vary a bit by season, but this pattern is comfortably inside your arrival cutoff. |
+| Wed, Jul 22 | LAS -> JFK | **JetBlue B6 148**: 7:00 AM -> 2:56 PM | Check live fare | Clean nonstop return and the safest JFK option relative to your LAS departure cutoff. |
+| Wed, Jul 22 | LAS -> JFK | **JetBlue B6 348**: 12:55 PM -> 8:53 PM | Check live fare | Also nonstop and still leaves LAS before 4:00 PM if you prefer a later departure. |
 
 ## Hotel Options (Combined)
 All hotel planning is in one section below: base options, Expedia booking links with single-room nightly pricing, and drive times for only Santa Monica and Universal Studios Hollywood.
