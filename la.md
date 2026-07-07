@@ -27,6 +27,28 @@ Hancock Park / Larchmont is one of the most central bases in LA. Approximate dri
 
 **Walkable bonus:** Larchmont Blvd (2 min walk) has cafes, bakeries, and casual dinners — perfect for low-energy nights. See "Near the Airbnb" section at the bottom.
 
+## Parking Guide (minivan)
+A minivan fits every normal LA garage (clearance is usually 6'6"-8'2"; a minivan is ~5'10"). Only three habits matter: skip stalls marked **"COMPACT"**, favor structures over street parallel parking when the van is full of people, and read the full sign pole before leaving it on any street — LA stacks 3-4 rules per pole (permit zones, street cleaning, rush-hour tow-away).
+
+| Area / Day | How parking works | Cost ballpark |
+|---|---|---|
+| **Airbnb (Hancock Park)** | Ask the host: is there a driveway spot, and are the surrounding streets overnight-permit-restricted? Much of Hancock Park is permit parking at night — the driveway answer decides everything. | Free if driveway |
+| **Santa Monica (Day 1)** | Best move: Downtown Santa Monica city structures 1-8 around the Promenade — **first 90 min free**, easy walk to pier. Beach lots next to the pier are flat-rate and fill early on July Saturdays. | Structures ~$1-3/add'l hr; beach lots ~$15-20 flat |
+| **Hollywood Walk of Fame (Day 2)** | Park once at **Ovation Hollywood garage** (enter on Highland or Orange) — validated with purchase, elevator up to TCL/Walk of Fame. Avoid the hawker "event" lots on the Blvd. | ~$3-10 with validation |
+| **Rodeo Drive (Day 2)** | Beverly Hills city garages are the hidden deal: **first 1-2 hours free** (e.g., 461 N Bedford Dr, 9510 Brighton Way — both a block from Rodeo). | Free-cheap |
+| **Koreatown (Day 2/3)** | Nearly every restaurant/mall has its own lot: Koreatown Plaza and Madang garages validate; many restaurants share small valet lots. Street parking exists but signs are brutal — default to the business's lot/valet. | Free-validated; valet ~$3-6 |
+| **Griffith Observatory (Sun night)** | Pay-by-plate ~$10/hr near the top; cheaper to park partway down Western Canyon Rd and walk up 10-15 min. Evenings are busy — circle patiently. | ~$10/hr top; less below |
+| **Melrose / Fairfax / La Brea shops** | Metered street parking, mostly 1-2 hr; Melrose Trading Post (Sunday) has paid lots nearby. Pay meters by app (ParkMobile/LA Express Park). | ~$1-2/hr meters |
+| **Old Pasadena / Olive Young (Day 3)** | Pasadena city structures ring Colorado Blvd (Schoolhouse at 33 E Green St is closest) — **first 90 min free**. Arriving at 9:45 AM for the 10 AM Olive Young opening = easy spot. | Free 90 min, ~$2-3/hr after |
+| **The Grove (Day 3 flex)** | On-site garage, first hour free, validation with purchases; Farmers Market surface lot with validation. | ~Free-$10 |
+| **DTLA (Day 3 flex)** | Grand Central Market validates at nearby garages; otherwise use posted-rate surface lots ($10-15 flat). Don't street park downtown. | ~$10-15 flat |
+| **UCLA (Day 4)** | Visitor pay-by-plate in the numbered structures — all-day max ~$15-17. For the noon tour, arrive by ~11:15 and use the structure named in your tour confirmation (often Structure 2, off Hilgard). Van height is fine in all UCLA structures. | ~$15-17/day |
+| **Westfield Century City (Day 4)** | Huge garage, first hour free, app/validation discounts; tall clearance. | ~Free-$10 |
+| **Getty Center (Day 4)** | One big official garage, per-car flat rate (~$25, cheaper after 3 PM); museum itself is free. Tram up from the garage. | ~$25 flat |
+| **Restaurant valets** | Very common at sit-down LA restaurants (Mother Wolf, Bestia, etc.). Minivans are totally normal for valets. Keep $5-10 cash tips handy. | ~$10-15 + tip |
+
+**Rules of thumb:** park once per neighborhood and walk the cluster; photograph the parking sign and your level/row; never leave visible bags in the van (standard LA advice); prices drift, so trust the posted rate over this table.
+
 ## Must-Do Tracker
 | Must-do | Best slot | Notes |
 |---|---|---|
