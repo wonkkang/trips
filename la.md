@@ -2,7 +2,7 @@
 
 ## Quick Snapshot
 - Arrive: Saturday ~11:00 AM at LAX, renting a car
-- Home base: Airbnb at **626 N Lucerne Blvd, Los Angeles, CA 90004** (Hancock Park, half a block from Larchmont Village)
+- Home base: Airbnb is near Hancock Park, half a block from Larchmont Village
 - Day 1 (Sat): Arrival + Santa Monica
 - Day 2 (Sun): Hollywood + Rodeo Drive + Koreatown
 - Day 3 (Mon): Pasadena (Olive Young) + flex day around Hollywood/Ktown/museums
